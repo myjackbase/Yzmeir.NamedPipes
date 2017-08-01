@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CNamedPipesClient.cpp
+c:\users\myjac\desktop\yzmeir.namedpipes\src\cnamedpipesclient\cnamedpipesclient.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\myjac\desktop\yzmeir.namedpipes\src\cnamedpipesclient\cnamedpipesclient.cpp(46): warning C4244: “=”: 从“DWORD”转换到“char”，可能丢失数据
+  CNamedPipesClient.vcxproj -> C:\Users\myjac\Desktop\Yzmeir.NamedPipes\src\Debug\CNamedPipesClient.exe
+  CNamedPipesClient.vcxproj -> C:\Users\myjac\Desktop\Yzmeir.NamedPipes\src\Debug\CNamedPipesClient.pdb (Full PDB)
